@@ -1,5 +1,5 @@
 # RMCCEditor
-## RavelloH Minecraft Command Editor | Minecraft命令编辑器
+*RavelloH Minecraft Command Editor | Minecraft命令编辑器*
 
 by @Ravello-H
 
@@ -9,5 +9,9 @@ by @Ravello-H
 Dvelopmenting...Expected to be launched in August 2021.
 
 ## 运行平台 | Operating platform
- Windows 10 x64
+ 'Windows 10 x64'
+ 
+##当前开发版本 | Current development version
+ `V0.0.0-Alpha`
+
 
