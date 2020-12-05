@@ -11,7 +11,7 @@ Dvelopmenting...Expected to be launched in August 2021.
 ## 运行平台 | Operating platform
  'Windows 10 x64'
  
-##当前开发版本 | Current development version
+## 当前开发版本 | Current development version
  `V0.0.0-Alpha`
 
 
