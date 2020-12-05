@@ -2,7 +2,6 @@
 *RavelloH Minecraft Command Editor | Minecraft命令编辑器*
 
 by @Ravello-H
-----
 
 正在开发中...预计上线时间:2021-8
 
